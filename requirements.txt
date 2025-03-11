@@ -1,0 +1,8 @@
+pysqlite3-binary
+chromadb
+crewai
+crewai_tools
+streamlit
+openai
+litellm
+python-dotenv
