@@ -1,8 +1,8 @@
 pysqlite3-binary
 chromadb
-crewai
-crewai_tools
-streamlit
-openai
-litellm
-python-dotenv
+crewai --upgrade
+crewai_tools --upgrade
+streamlit --upgrade
+openai --upgrade
+litellm --upgrade
+python-dotenv --upgrade
