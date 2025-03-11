@@ -6,4 +6,3 @@ streamlit
 openai
 litellm
 python-dotenv
-FileReadTool
